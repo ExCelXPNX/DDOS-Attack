@@ -4,19 +4,19 @@ Version 5.5 (15.5.2021)
 							Code by EXCEL
 
 
-┌─────────────────────────────────────────────┐
-│The attack you want just doesn't love anyone │
-│  because they will betray you as always.    │
-├─────────────────────────────────────────────┤
-│                 New stuff:                  │
-│          [+] Optimization                   │
-│          [+] Changed Output                 │
-│          [+] Added Url Parser               │ 
-│ {+} If your cards are bad, try to play well │ 
-├─────────────────────────────────────────────┤
-│If you want a link, try to find it in another│
-│               way ;)                        │
-└─────────────────────────────────────────────┘
+
+ The attack you want just doesn't love anyone 
+  because they will betray you as always.    
+─────────────────────────────────────────────
+                New stuff:                  
+         [+] Optimization                   
+         [+] Changed Output                 
+          [+] Added Url Parser               
+ {+} If your cards are bad, try to play well 
+
+ If you want a link, try to find it in another
+                way ;)                        
+
 
 
 
