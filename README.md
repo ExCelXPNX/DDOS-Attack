@@ -1,12 +1,46 @@
-       /////    /////    /////////////
-      CCCCC/   CCCCC/   | CC-attack |/
-     CC/      CC/       |-----------|/ 
-     CC/      CC/       |  Layer 7  |/ 
-     CC/////  CC/////   | ddos tool |/ 
-      CCCCC/   CCCCC/   |___________|/
+      _                      _______                      _
+  _dMMMb._              .adOOOOOOOOOba.              _,dMMMb_
+ dP'  ~YMMb            dOOOOOOOOOOOOOOOb            aMMP~  `Yb
+ V      ~"Mb          dOOOOOOOOOOOOOOOOOb          dM"~      V
+          `Mb.       dOOOOOOOOOOOOOOOOOOOb       ,dM'
+           `YMb._   |OOOOOOOOOOOOOOOOOOOOO|   _,dMP'
+      __     `YMMM| OP'~"YOOOOOOOOOOOP"~`YO |MMMP'     __
+    ,dMMMb.     ~~' OO     `YOOOOOP'     OO `~~     ,dMMMb.
+ _,dP~  `YMba_      OOb      `OOO'      dOO      _aMMP'  ~Yb._
 
-# CC-attack ![](https://img.shields.io/badge/Version-3.6-brightgreen.svg) ![](https://img.shields.io/badge/license-GPLv2-blue.svg)
- A script for using socks4/5 proxies to attack http(s) server.
+             `YMMMM\`OOOo     OOO     oOOO'/MMMMP'
+     ,aa.     `~YMMb `OOOb._,dOOOb._,dOOO'dMMP~'       ,aa.
+   ,dMYYMba._         `OOOOOOOOOOOOOOOOO'          _,adMYYMb.
+  ,MP'   `YMMba._      OOOOOOOOOOOOOOOOO       _,adMMP'   `YM.
+  MP'        ~YMMMba._ YOOOOPVVVVVYOOOOP  _,adMMMMP~       `YM
+  YMb           ~YMMMM\`OOOOI`````IOOOOO'/MMMMP~           dMP
+   `Mb.           `YMMMb`OOOI,,,,,IOOOO'dMMMP'           ,dM'
+     `'                  `OObNNNNNdOO'                   `'
+                           `~OOOOO~'   EXCEL	                   
+ 	                  
+ 	                     ___________
+ 	                    |///////////|/	                   
+ 	                    |   DDOS    |/
+                           |-----------|/ 
+	                    |  Layer 7  |/ 
+	                    | ddos tool |/ 
+	                    |___________|/
+>--------------------------------------------->
+Version 5.5 (15.5.2021)
+							Code by EXCEL
+┌─────────────────────────────────────────────┐
+│The attack you want just doesn't love anyone │
+│  because they will betray you as always.    │
+├─────────────────────────────────────────────┤
+│                 New stuff:                  │
+│          [+] Optimization                   │
+│          [+] Changed Output                 │
+│          [+] Added Url Parser               │ 
+│ {+} If your cards are bad, try to play well │ 
+├─────────────────────────────────────────────┤
+│If you want a link, try to find it in another│
+│               way ;)                        │
+└─────────────────────────────────────────────┘
 
  News:
 - [x] Added Output Indicator
@@ -26,13 +60,13 @@
 
 ## Showcase
 
-![](https://i.imgur.com/hXGBnkB.png)
+![](https://imgur.com/sRZ7NJF)
 
 ## Install
 
     pip3 install requests pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
-    cd CC-attack
+    git clone https://github.com/ExCelXPNX/DDOS-Attack
+    cd attack
 
 ## Usage
 
