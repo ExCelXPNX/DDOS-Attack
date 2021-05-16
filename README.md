@@ -44,7 +44,7 @@ Version 5.5 (15.5.2021)
 
     pip3 install requests pysocks
     git clone https://github.com/ExCelXPNX/DDOS-Attack
-    cd attack
+    cd DDOS-Attack
 
 ## Usage
 
