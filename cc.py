@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-#Coded by L330n123
+#Coded by Excel
 #########################################
 #         Just a little change          #
-#                           -- L330n123 #
+#                           -- Excel #
 #########################################
 import requests
 import socket
